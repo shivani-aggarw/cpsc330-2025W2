@@ -1,0 +1,137 @@
+version: 1
+project:
+  title: CPSC 330 Applied Machine Learning 2025W1
+  authors:
+    - name: Varada Kolhatkar
+  exclude:
+    - hw
+    - exams
+  github: UBC-CS/cpsc330-2025W1
+  exports:
+    - format: pdf
+      template: plain_latex_book
+      output: exports/book.pdf
+  toc:
+    - file: README.md
+    - title: Things you should know
+      children:
+        - file: syllabus.md
+        - file: docs/README.md
+        - file: learning-objectives.md
+    - title: Lectures
+      children:
+        - file: lectures/notes/01_intro.ipynb
+        - file: lectures/notes/02_terminology-decision-trees.ipynb
+        - file: lectures/notes/03_ml-fundamentals.ipynb
+        - file: lectures/notes/04_kNNs-SVM-RBF.ipynb
+        - file: lectures/notes/05_preprocessing-pipelines.ipynb
+        - file: lectures/notes/06_column-transformer-text-feats.ipynb
+        - file: lectures/notes/07_linear-models.ipynb
+        - file: lectures/notes/08_hyperparameter-optimization.ipynb
+        - file: lectures/notes/09_classification-metrics.ipynb
+        - file: lectures/notes/10_regression-metrics.ipynb
+        - file: lectures/notes/11_ensembles.ipynb
+        - file: lectures/notes/12_feat-importances.ipynb
+        - file: lectures/notes/13_feature-engineering-selection.ipynb
+        - file: lectures/notes/14_K-Means.ipynb
+        - file: lectures/notes/15_DBSCAN-hierarchical.ipynb
+        - file: lectures/notes/16_recommender-systems.ipynb
+        - file: lectures/notes/17_natural-language-processing.ipynb
+        - file: lectures/notes/18_intro_to_computer-vision.ipynb
+        - file: lectures/notes/19_time-series.ipynb
+        - file: lectures/notes/20_survival-analysis.ipynb
+        - file: lectures/notes/21_communication.ipynb
+        - file: lectures/notes/22_AIcsCoreFairness.pdf
+        - file: lectures/notes/23_deployment-conclusion.ipynb
+        - file: lectures/notes/final-exam-review-guiding-question.ipynb
+        - file: lectures/notes/AppendixA.ipynb
+        - file: lectures/notes/AppendixB.ipynb
+        - file: lectures/notes/AppendixC.ipynb
+        - file: lectures/notes/AppendixD.ipynb
+    - title: Section slides
+      children:
+        - file: lectures/101&103-Giulia-lectures/README
+          children:
+            - file: lectures/101-103-Giulia-lectures/01_intro.ipynb
+            - file: lectures/101-103-Giulia-lectures/02_terminology-decision-trees.ipynb
+            - file: lectures/101-103-Giulia-lectures/03_ml-fundamentals.ipynb
+            - file: lectures/101-103-Giulia-lectures/04_kNNs-SVM-RBF.ipynb
+            - file: lectures/101-103-Giulia-lectures/05_preprocessing-pipelines.ipynb
+            - file: >-
+                lectures/101-103-Giulia-lectures/06_column-transformer-text-feats.ipynb
+            - file: lectures/101-103-Giulia-lectures/07_linear-models.ipynb
+            - file: >-
+                lectures/101-103-Giulia-lectures/08_hyperparameter-optimization.ipynb
+            - file: lectures/101-103-Giulia-lectures/09_classification-metrics.ipynb
+            - file: lectures/101-103-Giulia-lectures/10_regression-metrics.ipynb
+            - file: lectures/101-103-Giulia-lectures/12_ensembles.ipynb
+            - file: lectures/101-103-Giulia-lectures/13_feat-importances
+            - file: lectures/101-103-Giulia-lectures/14_feature-engineering-selection
+            - file: lectures/101-103-Giulia-lectures/15_K-Means
+            - file: lectures/101-103-Giulia-lectures/16_DBSCAN-hierarchical
+            - url: https://firasm.github.io/cpsc330-slides/slides-17
+              title: Lecture 17
+            - url: https://firasm.github.io/cpsc330-slides/slides-18
+              title: Lecture 18
+            - file: lectures/101-103-Giulia-lectures/19_intro_to_computer-vision
+            - file: lectures/101-103-Giulia-lectures/20_time-series
+            - file: lectures/101-103-Giulia-lectures/21_survival-analysis
+            - file: lectures/101-103-Giulia-lectures/22_communication
+            - file: lectures/101-103-Giulia-lectures/lec23
+              title: Lecture 23
+        - file: lectures/102-Varada-lectures/README.md
+          children:
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-01.html
+              title: Lecture 1
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-02.html
+              title: Lecture 2
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-03.html
+              title: Lecture 3
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-04.html
+              title: Lecture 4
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-05.html
+              title: Lecture 5
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-06.html
+              title: Lecture 6
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-07.html
+              title: Lecture 7
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-08.html
+              title: Lecture 8
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-09.html
+              title: Lecture 9
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-10.html
+              title: Lecture 10
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-11.html
+              title: Lecture 11
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-12.html
+              title: Lecture 12
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-13.html
+              title: Lecture 13
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-14.html
+              title: Lecture 14
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-15.html
+              title: Lecture 15
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-16.html
+              title: Lecture 16
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-17.html
+              title: Lecture 17
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-18.html
+              title: Lecture 18
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-19.html
+              title: Lecture 19
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-20.html
+              title: Lecture 20
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-21.html
+              title: Lecture 21
+            - url: https://kvarada.github.io/cpsc330-slides/lecture-23.html
+              title: Lecture 23
+    - title: Attribution
+      children:
+        - file: attribution
+        - file: LICENSE.md
+site:
+  options:
+    logo: lectures/img/UBC-CS-logo.png
+    analytics_google: ''
+    folders: true
+  template: book-theme
