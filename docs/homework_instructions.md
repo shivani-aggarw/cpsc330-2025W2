@@ -107,6 +107,6 @@ If there are errors or other changes that need to be made to an assignment, we w
 
 ## Citing sources
 
-If you use information from students outside your group or from online sources _including code snippets from Stack Overflow_ or lecture notes, cite this at the start of each question. Please carefully read this policy on [use of Generative AI in the course](https://ubc-cs.github.io/cpsc330-2025W2/syllabus.html#use-of-generative-ai-in-the-course). 
+If you use information from students outside your group or from online sources _including code snippets from Stack Overflow_ or lecture notes, cite this at the start of each question. Please carefully read this policy on [use of Generative AI in the course](https://ubc-cs.github.io/cpsc330-2025W2/syllabus#use-of-generative-ai-in-the-course).
 
 **You will receive a mark of 0 for the assignment (and possibly other consequences) if you are found copying from other sources without citation and/or annotation**.
