@@ -29,17 +29,20 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 | Section      | Day | Time          | Location  |
 |--------------|-----|---------------|-----------|
-| CPSC 330 T1A | Fri | 09:00 - 10:00 | MCLD 3008 |
-| CPSC 330 T1B | Fri | 11:00 - 12:00 | MCML 158  |
-| CPSC 330 T1C | Fri | 14:00 - 15:00 | FSC 1003  |
-| CPSC 330 T1D | Fri | 15:00 - 16:00 | FSC 1003  |
-| CPSC 330 T1E | Thu | 17:00 - 18:00 | FSC 1611  |
-| CPSC 330 T1F | Thu | 13:00 - 14:00 | CEME 1215 |
-| CPSC 330 T1G | Thu | 14:00 - 15:00 | FORW 317  |
-| CPSC 330 T1H | Thu | 10:00 - 11:00 | CEME 1215 |
-| CPSC 330 T1J | Fri | 10:00 - 11:00 | MCLD 3008 |
-| CPSC 330 T1K | Fri | 11:00 - 12:00 | MCLD 3008 |
-| CPSC 330 T1L | Thu | 09:00 - 10:00 | CEME 1215 |
+| CPSC 330 T2A | Fri | 09:00 - 10:00 | MCLD 3014 |
+| CPSC 330 T2B | Fri | 10:00 - 11:00 | MCML 158  |
+| CPSC 330 T2C | Fri | 12:00 - 13:00 | SWNG 405  |
+| CPSC 330 T2D | Fri | 15:00 - 16:00 | MCLD 3014 |
+| CPSC 330 T2E | Fri | 14:00 - 15:00 | MCLD 3008 |
+| CPSC 330 T2F | Fri | 14:00 - 15:00 | CEME 1215 |
+| CPSC 330 T2G | Thu | 17:00 - 18:00 | CEME 1215 |
+| CPSC 330 T2H | Fri | 11:00 - 12:00 | FSC 1611  |
+| CPSC 330 T2I | Thu | 13:00 - 14:00 | CEME 1215 |
+| CPSC 330 T2J | Thu | 14:00 - 15:00 | MCLD 3008 |
+| CPSC 330 T2K | Thu | 15:00 - 16:00 | SWNG 107  |
+| CPSC 330 T2L | Thu | 09:00 - 10:00 | MCLD 3008 |
+| CPSC 330 T2M | Thu | 10:00 - 11:00 | MCLD 3008 |
+| CPSC 330 T2N | Fri | 13:00 - 14:00 | MCLD 158  |
 
 **Tutorials**
 
