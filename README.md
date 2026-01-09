@@ -103,8 +103,8 @@ We'll be developing lecture notes directly in this repository. So if you check t
 | Jan 29 | Hyperparameter optimization, overfitting the validation set | 📹 Pre-watch: [8.1](https://youtu.be/lMWdHZSZMk8), [8.2](https://youtu.be/Z9a9XZ0vQv0) |   different|
 | Feb 03 | Evaluation metrics for classification  | 📹  Reference: [9.2](https://youtu.be/ZCuCErW5lI8), [9.3](https://youtu.be/XkCTUuoH23c),[9.4](https://youtu.be/jHaKRCFb6Qw) | more depth |
 | Feb 05 | Regression metrics |  📹 Pre-watch: [10.1](https://youtu.be/lgGTKLwNgkQ) |   more depth on metrics less depth on regression|
-| Feb 10 | Ensembles |  📹 Pre-watch: [11.1](https://youtu.be/8litm1H7DLo), [11.2](https://youtu.be/EkFkY9QB2Hw) | similar |
-| Feb 11-13 | _Midterm 1 - no class, no tutorials_| |
+| Feb 9-11 | _Midterm 1 - no class, no office hours, no tutorials_| |
+| Feb 12 | Ensembles |  📹 Pre-watch: [11.1](https://youtu.be/8litm1H7DLo), [11.2](https://youtu.be/EkFkY9QB2Hw) | similar |
 | Feb 16-20 | _Midterm break - no class, no tutorials_ | | |
 | Feb 24 | Feature importances, model interpretation | 📹 Pre-watch: [12.1](https://youtu.be/xfICsGL7DXE),[12.2](https://youtu.be/tiSN18OmZOo)| feature importances is new, feature engineering is new |
 | Feb 26 | Feature engineering and feature selection | None | less depth |
@@ -112,14 +112,15 @@ We'll be developing lecture notes directly in this repository. So if you check t
 | Mar 05 | More clustering |  📹 Pre-watch: [15.1](https://youtu.be/1ZwITQyWpkY), [15.2](https://youtu.be/T4NLsrUaRtg), [15.3](https://youtu.be/NM8lFKFZ2IU)   | less depth |
 | Mar 10 | Simple recommender systems | | less depth ||
 | Mar 12 | Text data, embeddings, topic modeling  | 📹 Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY), [16.2](https://youtu.be/7W5Q8gzNPBc)  |   new |
-| Mar 16-18 | _Midterm 2 - no class, no tutorials_| |
-| Mar 19 | Neural networks and computer vision | |   less depth |
-| Mar 24 | Time series data | (Optional) [Humour: The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new |
-| Mar 26 | Survival analysis | 📹 (Optional but highly recommended)[Calling Bullshit 4.1: Right Censoring](https://www.youtube.com/watch?v=ITWQ5psx9Sw)|   new |
-| Mar 31 | Communication | 📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total)</li> <li>[Can you read graphs? Because I can't.](https://www.youtube.com/watch?v=vbDObzI-CTc) by Sabrina (7 min)</li> |   new |
-| Apr 02  |  Ethics |   📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total)</li> <li>[The ethics of data science](http://jtleek.com/ads2020/week-15.html)</li>| new |
-| Apr 07 | Model deployment and conclusion |  |  new |
-| Apr 09 | ? | | |
+| Mar 16-18 | _Midterm 2 - no class, no office hours (YES tutorials)_| |
+| Mar 19 | Introduction to LLMs | | |
+| Mar 24 | Neural networks and computer vision | |   less depth |
+| Mar 26 | Time series data | (Optional) [Humour: The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new |
+| Mar 31 | Survival analysis | 📹 (Optional but highly recommended)[Calling Bullshit 4.1: Right Censoring](https://www.youtube.com/watch?v=ITWQ5psx9Sw)|   new |
+| Apr 02 | Communication | 📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total)</li> <li>[Can you read graphs? Because I can't.](https://www.youtube.com/watch?v=vbDObzI-CTc) by Sabrina (7 min)</li> |   new |
+| Apr 07 | Ethics |   📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total)</li> <li>[The ethics of data science](http://jtleek.com/ads2020/week-15.html)</li>| new |
+| Apr 09 | Model deployment and conclusion |  |  new |
+
 
 
 ## Reference Material
