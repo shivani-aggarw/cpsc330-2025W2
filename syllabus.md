@@ -124,7 +124,7 @@ The iClicker participation grade will mainly consider your engagement rather tha
 The plan is that most of the assignments will contribute equally towards the overall Assignments grade.
 <!-- However, this is not finalized yet.
 For example, the last assignment ends up particularly short or long due to timing. -->
-We will drop your lowest homework grade. 
+We will drop your lowest homework grade. However, because Homework 5 is a significant, project-like assignment, and it is crucial for students' preparation, **Homework 5 is excluded from the drop grade policy.**
 <!--**By default late submissions will not be accepted.** The rationale is that we will be posting the solutions shortly after the assignment deadline, and we cannot accept submissions after the solutions are posted. I do not like this, but I believe the overall policy is best for the class as a whole.--> 
 See [this document](docs/homework_instructions.md) for more detailed instructions on submitting homework assignments.
 
